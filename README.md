@@ -28,13 +28,17 @@ Depending on your security settings you may receive a message warning you that t
 
 ---
 
-### Downloads {#download}
+### Downloads
 
-| Operating System   |      Virus Scan      |  Download |
-|----------|:-------------:|------:|
-| macOS |  [View virustotal][8] | [Download v1.0.0-beta.1 115.81 MB][9] |
-| Windows (32/x86) |  [View virustotal][10] | [Download v1.0.0-beta.1 91.39 MB][11] |
-| Windows (64/x64) |  [View virustotal][12] | [Download v1.0.0-beta.1 101.60 MB][13] |
+The current version is **v1.0.0-beta.1**.
+
+| Operating System           | Virus Scan            | Download                 |
+|----------------------------|-----------------------|--------------------------|
+| Apple macOS                | [View virustotal][8]  | [Download 115.81 MB][9]  |
+| Microsoft Windows (32/x86) | [View virustotal][10] | [Download 91.39 MB][11]  |
+| Microsoft Windows (64/x64) | [View virustotal][12] | [Download 101.60 MB][13] |
+
+
 
 ---
 
