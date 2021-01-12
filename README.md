@@ -3,6 +3,9 @@ The easy way to use Adobe Flash Player, just like you used to.
 
 With Adobe Flash Player coming up for it's planned end-of-life at the end of [December 31st, 2020][1].
 
+# Heads up!
+> HabFlash will no longer work after Tuesday, 12 January 2021 due to it's complied with a version of Adobe Flash that includes the Kill Switch. [Maxthon Nitro][15] is a really lightweight browser that uses an older version of Adobe Flash Player and is a decent alternative if you're looking for something to use in the meantime. We only recommend using this for retros and not personal use due to Nitro is no longer maintained and the security risks of out-dated Adobe Flash Player.
+
 ---
 
 ### How does Habflash work?
@@ -59,3 +62,4 @@ The current version is **v1.0.0-beta.1**.
 [12]: https://www.virustotal.com/gui/file/fe3fafacbc9deb5a1e5c0037335d5716e657a2839ac5d034eda517e4f25e7214/detection
 [13]: https://github.com/RetroResources/Habflash/releases/download/v1.0.0-beta.1/Habflash_64.exe
 [14]: https://devbest.com/threads/habflash-the-easy-way-to-use-flash-just-like-you-used-to.91405
+[15]: https://devbest.com/threads/habflash-the-easy-way-to-use-flash-just-like-you-used-to.91405
