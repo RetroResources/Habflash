@@ -62,4 +62,4 @@ The current version is **v1.0.0-beta.1**.
 [12]: https://www.virustotal.com/gui/file/fe3fafacbc9deb5a1e5c0037335d5716e657a2839ac5d034eda517e4f25e7214/detection
 [13]: https://github.com/RetroResources/Habflash/releases/download/v1.0.0-beta.1/Habflash_64.exe
 [14]: https://devbest.com/threads/habflash-the-easy-way-to-use-flash-just-like-you-used-to.91405
-[15]: https://devbest.com/threads/habflash-the-easy-way-to-use-flash-just-like-you-used-to.91405
+[15]: https://www.maxthon.com/nitro/static.html
